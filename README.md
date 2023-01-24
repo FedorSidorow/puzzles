@@ -6,9 +6,11 @@
 <b> Алгоритмы </b>
 </summary>
 
+---
+
 <details>
 <summary>
-<b> Две фишки </b>
+<b> Две фишки (<a href="algorithms/two_point.py">two_point.py</a>)</b>
 </summary>
 
 #### Условие: 
