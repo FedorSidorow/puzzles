@@ -87,7 +87,7 @@
 
 <details>
 <summary>
-<b>Ближайший ноль Финальная задача (<a href="algorithms/nearest_zero.py">nearest_zero.py</a>)</b>
+<b>Ближайший ноль (<a href="algorithms/nearest_zero.py">nearest_zero.py</a>)</b>
 </summary>
 
 #### Условие:
